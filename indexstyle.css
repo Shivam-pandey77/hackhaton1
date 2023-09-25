@@ -1,0 +1,32 @@
+.carousel-item {
+    height: 85vh;
+  }
+  .img2{
+    background-size:contain;
+  }
+
+  .pan{
+    background-color: rgba(0, 0, 0, 0.2);
+    font-size: x-large;
+    font: 900;
+    display: inline;
+   }
+
+   .dropdown-menu {
+    color: #fff;
+   }
+
+   .stii {
+    background-color: rgba(230, 230, 230);
+   }
+
+   .bbttnn {
+    background-color: rgb(88, 88, 88,0.7);
+   }
+
+   .bbttnn:hover {
+    background-color: rgb(88, 88, 88) ;
+    color: #fff;
+   }
+
+  

@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: #c2c2c2;
+    width: 100%;
+}
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ift {
+    margin:20px;
+    margin-right: 0px;
+    margin-top: 50px;
+}
+.heading {
+    margin: 30px;
+    padding: 10px;  
+}
+
+.grass {
+    display: flex;
+}
+.side {
+    align-self: right;
+    justify-content: right;
+     width: 85%;
+
+}
+
+.sss {
+    position:sticky;
+    top: 0%;
+   height: 98vh;
+   
+}
